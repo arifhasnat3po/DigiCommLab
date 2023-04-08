@@ -33,5 +33,4 @@ Contributions to this repository are welcome and encouraged. If you have any exa
 
 Please ensure that any code contributions are well-documented and follow best practices for MATLAB programming.
 
-License
-This repository is licensed under the MIT License. Please see the LICENSE file for more details.
+
